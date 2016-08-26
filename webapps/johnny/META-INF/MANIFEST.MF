@@ -4,7 +4,7 @@ Implementation-Version: 0.1.0
 Archiver-Version: Plexus Archiver
 Built-By: Administrator
 Implementation-Vendor-Id: org.springframework
-Created-By: Apache Maven 3.0.5
+Created-By: Apache Maven 3.2.1
 Build-Jdk: 1.8.0_101
 Implementation-URL: http://projects.spring.io/spring-boot/gs-consuming
  -rest/
