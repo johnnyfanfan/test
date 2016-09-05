@@ -16,7 +16,7 @@
   </wsdl:binding>
   <wsdl:service name="AddServiceImplService">
     <wsdl:port name="AddServiceImplPort" binding="tns:AddServiceImplServiceSoapBinding">
-      <soap:address location="http://localhost:8083/ws-server/services/AddServiceImplPort"/>
+      <soap:address location="http://localhost:8081/ws-server/services/AddServiceImplPort"/>
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>
